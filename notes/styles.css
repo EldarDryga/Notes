@@ -1,0 +1,31 @@
+.chat-container {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .chat-messages {
+    height: 300px;
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .chat-input {
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  .login-button {
+    margin-top: 10px;
+    margin-left: 268px;
+    height: 30px;
+    width: 50px;
+  }
+  .login-input {
+    width: 30%;
+    margin-top: 10px;
+    margin-left: 70%;
+  }
